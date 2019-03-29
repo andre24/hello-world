@@ -1,0 +1,3 @@
+main program Cetak()
+Cetak "Hello world!"; 
+end program;
